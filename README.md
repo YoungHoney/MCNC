@@ -7,3 +7,7 @@
 
 
 
+![test1](https://user-images.githubusercontent.com/46434398/61181063-ca6ebb00-a65b-11e9-8b9e-345c42abbb8b.png)
+![test2](https://user-images.githubusercontent.com/46434398/61181067-d8244080-a65b-11e9-97a7-fc091015cd2a.png)
+![test3](https://user-images.githubusercontent.com/46434398/61181070-e07c7b80-a65b-11e9-91d2-d51fb46dead7.png)
+![Linear Regression E_x](https://user-images.githubusercontent.com/46434398/61181071-e6725c80-a65b-11e9-8276-3f584fea2a7d.png)
