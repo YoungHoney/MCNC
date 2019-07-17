@@ -13,3 +13,4 @@
 ![test2](https://user-images.githubusercontent.com/46434398/61181067-d8244080-a65b-11e9-97a7-fc091015cd2a.png)
 ![test3](https://user-images.githubusercontent.com/46434398/61181070-e07c7b80-a65b-11e9-91d2-d51fb46dead7.png)
 ![Linear Regression E_x](https://user-images.githubusercontent.com/46434398/61181071-e6725c80-a65b-11e9-8276-3f584fea2a7d.png)
+![선형회귀 개꿀잼](https://user-images.githubusercontent.com/46434398/61370010-656dcc00-a8cc-11e9-9f29-1466ffa860ea.png)
